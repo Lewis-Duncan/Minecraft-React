@@ -4,10 +4,10 @@ This is a small project which mimics the basic aspects of Minecraft allowing the
 
 ## Controls
 
-First click on the cross in the center of the viewport.
-To navigate use the mouse, WASD and space to jump.
-Choose block type using numbers 1-5 on your keyboard.
-Click to add blocks and use Alt+Click to remove blocks.
+First click on the cross in the center of the viewport.  
+To navigate use the mouse, WASD and space to jump.  
+Choose block type using numbers 1-5 on your keyboard.  
+Click to add blocks and use Alt+Click to remove blocks.  
 Click save to store in browsers local storage.
 
 ![Preview](preview.png 'Preview')
